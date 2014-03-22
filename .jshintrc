@@ -1,0 +1,32 @@
+{
+    "globals": {
+        // src
+        "bunny": true,
+        "Hub": true,
+        "Publisher": true,
+        "Subscriber": true,
+
+        // library
+        "define": false,
+        "describe": false,
+        "it": false,
+        "beforeEach": false,
+        "afterEach": false,
+        "mocha": false,
+        "chai": true,
+        "sinon": true
+    },
+
+    "browser": true,
+    "node": true,
+    "eqeqeq": true,
+    "newcap": true,
+    "quotmark": true,
+    "undef": true,
+    "unused": true,
+    "trailing": true,
+    "supernew": true,
+    "lastsemic": true
+}
+
+// vim: set filetype=javascript:

@@ -1,0 +1,13 @@
+framework: mocha+chai
+
+launchers:
+    Node:
+        command: "mocha -R tap"
+        protocol: tap
+
+
+src_files:
+    - node_modules/sinon/pkg/sinon.js
+    - bunny.js
+    - test/*.js
+
