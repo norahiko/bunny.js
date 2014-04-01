@@ -1,5 +1,5 @@
 {
-  "name": "bunny.js",
+  "name": "bunny",
   "version": "0.0.1",
   "description": "Simple PubSub library",
   "main": "bunny.js",
